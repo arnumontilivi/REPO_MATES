@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="MatesLib-raraujoesilva.csproj" />
+  <Project Path="../MatesConsola/MatesConsola.csproj" Id="41b959dd-0a9a-4c51-9dec-3d617fe20d05" />
+  <Project Path="../MATESLIBRAFAEL/MATESLIBRAFAEL.csproj" Id="338fa601-66ef-469e-8633-c1f9f1f783c5" />
+  <Project Path="../MATES_RAFAEL2/MATES_RAFAEL2.csproj" Id="cadb7f04-d6bf-419f-af3d-2c8894b09ac7" />
 </Solution>
